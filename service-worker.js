@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nhothspotify/precache-manifest.8b32968bfe3dc5621020303560058c6d.js"
+  "/nhothspotify/precache-manifest.b9872dad7cf2c914f7b0788af57d23a9.js"
 );
 
 workbox.clientsClaim();
